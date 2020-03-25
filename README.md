@@ -1,4 +1,4 @@
-# A/B Testing to Determine Effect of Introducing Free Trial Button on Conversions
+# A/B Testing to Determine Effect of Introducing Free Trial Screener on Conversions
 
 ### Experiment Description
 At the time of this experiment, Udacity courses currently have two options on the course overview page: "start free trial", and "access course materials".
